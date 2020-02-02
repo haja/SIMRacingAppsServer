@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="C:/dev/repos/trainings/scala-coursera/ass1" value="1459512774000" />
+        <entry key="C:/dev/repos/trainings/scala-coursera/forcomp" value="1462313212000" />
+        <entry key="C:/dev/repos/trainings/scala-coursera/objsets" value="1462319246000" />
+        <entry key="C:/dev/repos/trainings/scala-coursera/patmat" value="1462376464000" />
+        <entry key="C:/dev/repos/trainings/scala-coursera/progfun2/example" value="1457113070000" />
+        <entry key="C:/dev/repos/trainings/scala-coursera/progfun2/quickcheck" value="1464284570000" />
+        <entry key="C:/dev/repos/trainings/scala-coursera/progfun2/streams" value="1481016142000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="-Dsbt.override.build.repos=true -Dhttp.proxyHost=proxy.r-services.at -Dhttp.proxyPort=57145 -Dhttps.proxyHost=proxy.r-services.at -Dhttps.proxyPort=57145 -Dhttp.nonProxyHosts=&quot;xlritd100.prod01.r-dc.net|localhost|127.*|[::1]&quot;" />
+  </component>
+</project>

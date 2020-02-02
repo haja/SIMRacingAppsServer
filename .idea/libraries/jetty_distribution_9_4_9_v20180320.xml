@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="jetty-distribution-9.4.9.v20180320">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/annotations" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/apache-jsp" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/apache-jstl" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/fcgi" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/http2" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/jaspi" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/mail" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/setuid" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/spring" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/transactions" />
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/websocket" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/setuid" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/annotations" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/apache-jsp" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/apache-jstl" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/fcgi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/http2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/jaspi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/mail" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/setuid" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/spring" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/transactions" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jetty-distribution-9.4.9.v20180320/lib/websocket" recursive="false" />
+  </library>
+</component>

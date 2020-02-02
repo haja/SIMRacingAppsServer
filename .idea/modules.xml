@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SIMRacingApps/SIMRacingApps.iml" filepath="$PROJECT_DIR$/../SIMRacingApps/SIMRacingApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SIMRacingAppsSIMPluginAssettoCorsa/SIMRacingAppsSIMPluginAC.iml" filepath="$PROJECT_DIR$/../SIMRacingAppsSIMPluginAssettoCorsa/SIMRacingAppsSIMPluginAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SIMRacingAppsSIMPluginiRacing/SIMRacingAppsSIMPluginiRacing.iml" filepath="$PROJECT_DIR$/../SIMRacingAppsSIMPluginiRacing/SIMRacingAppsSIMPluginiRacing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIMRacingAppsServer.iml" filepath="$PROJECT_DIR$/SIMRacingAppsServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SIMRacingAppsWebContent/SIMRacingAppsWebContent.iml" filepath="$PROJECT_DIR$/../SIMRacingAppsWebContent/SIMRacingAppsWebContent.iml" />
+    </modules>
+  </component>
+</project>
